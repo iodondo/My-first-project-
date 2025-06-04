@@ -1,0 +1,23 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore environment files (often contain sensitive info)
+.env
+
+# Ignore build directories
+/dist/
+/build/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
